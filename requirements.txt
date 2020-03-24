@@ -3,7 +3,7 @@ astroid==2.1.0
 attrs==19.1.0
 autopep8==1.4.3
 backcall==0.1.0
-bleach==3.1.0
+bleach==3.1.2
 decorator==4.3.2
 defusedxml==0.5.0
 entrypoints==0.3
